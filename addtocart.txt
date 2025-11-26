@@ -1,0 +1,3 @@
+this module is to add products into the cart
+it is to developed by Mugilan
+
